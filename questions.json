@@ -1,0 +1,203 @@
+[
+    {
+      "question": "Що таке Angular CLI?",
+      "answer": "Angular CLI — це інтерфейс командного рядка для Angular, який дозволяє автоматизувати процеси розробки, такі як створення проектів, компонентів, сервісів і т.д.",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке сервіс в Angular?",
+      "answer": "Сервіси в Angular використовуються для логіки бізнес-процесів та взаємодії з даними, а також можуть бути використані для спільного доступу до цих функцій між різними компонентами.",
+      "category": "angular"
+    },
+    {
+      "question": "Яка різниця між ngOnInit і constructor?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке директиви в Angular?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке двостороннє зв'язування даних?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Яка різниця між компонентами та директивами?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке зміни в Angular?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке модулі в Angular?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Як працює інжектор залежностей в Angular?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке спостерігачі (Observables) в Angular?",
+      "answer": "",
+      "category": "angular"
+    },
+    {
+      "question": "Що таке типи в TypeScript?",
+      "answer": "Типи в TypeScript допомагають визначати структуру та формат даних, що дозволяє уникнути помилок під час компіляції.",
+      "category": "typescript"
+    },
+    {
+      "question": "Як працюють інтерфейси?",
+      "answer": "Інтерфейси в TypeScript визначають контракт для об'єктів, описуючи їх структуру та забезпечуючи строгість типів.",
+      "category": "typescript"
+    },
+    {
+      "question": "Що таке type guards?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+      "question": "Яка різниця між типами 'any' та 'unknown'?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+     "question": "Що таке перечислення (Enums) в TypeScript?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+      "question": "Що таке generics в TypeScript?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+     "question": "Що таке модифікатори доступу (public, private, protected)?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+      "question": "Що таке деструктуризація в TypeScript?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+      "question": "Що таке 'never' тип в TypeScript?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+      "question": "Що таке 'void' тип в TypeScript?",
+      "answer": "",
+      "category": "typescript"
+    },
+    {
+     "question": "Що таке hoisting?",
+      "answer": "Hoisting — це механізм в JavaScript, при якому оголошення змінних і функцій переміщуються на початок їхнього обсягу до виконання коду.",
+      "category": "javascript"
+    },
+    {
+      "question": "Що таке замикання (closure)?",
+      "answer": "Замикання — це функція, яка зберігає доступ до змінних з обсягу, в якому вона була створена, навіть після того, як цей обсяг вже завершив своє виконання.",
+      "category": "javascript"
+    },
+    {
+     "question": "Різниця між var, let, const?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+      "question": "Що таке callback функції?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+      "question": "Що таке promises в JavaScript?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+     "question": "Що таке async/await?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+     "question": "Що таке прототипи (prototypes) в JavaScript?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+     "question": "Що таке замикання в контексті функцій?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+      "question": "Яка різниця між == та ===?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+     "question": "Що таке ES6?",
+      "answer": "",
+      "category": "javascript"
+    },
+    {
+     "question": "Що таке Observable?",
+      "answer": "Observable — це патерн, що дозволяє підписуватись на потік даних та реагувати на зміни цих даних, використовуючи оператори RxJS.",
+      "category": "rxjs"
+    },
+    {
+      "question": "Яка роль операторів map, mergeMap?",
+      "answer": "Оператори map і mergeMap дозволяють трансформувати потоки даних. map перетворює значення в потоці, а mergeMap дозволяє обробляти інші Observable у потоці.",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке Subjects у RxJS?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке операційні функції в RxJS?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+      "question": "Що таке оператори cold і hot Observable?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке pipe в RxJS?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке оператор take?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+      "question": "Що таке операція merge?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке оператор debounceTime?",
+      "answer": "",
+      "category": "rxjs"
+    },
+    {
+     "question": "Що таке оператор switchMap?",
+      "answer": "",
+      "category": "rxjs"
+    }
+  ]
+  
