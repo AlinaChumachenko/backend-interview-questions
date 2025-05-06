@@ -40,3 +40,21 @@ export const deleteQuestion = (req, res) => {
 
      res.json(deleted[0]);
 }
+
+export const updateAnswer = (req, res) => {
+    const { id } = req.params;
+    const { answer } = req.body;
+  
+    const questions = getQuestionsData();
+    const index = questions.findIndex(q => q.id === id);
+  
+    if (index === -1) {
+      return res.status(404).json({ message: 'Question not found' });
+    }
+  
+    questions[index].answer = answer;
+    saveQuestionsData(questions);
+  
+    res.json(questions[index]);
+  };
+  
