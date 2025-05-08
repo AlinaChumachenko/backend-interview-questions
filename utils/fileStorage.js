@@ -28,3 +28,18 @@ export const getQuestionsData = () => {
 export const saveQuestionsData = (data) => {
     fs.writeFileSync(questionsFile, JSON.stringify(data, null, 2)); 
   };
+
+  const categoriesFile = './categories.json';
+
+  export const getCategories = () => {
+    if (!fs.existsSync(categoriesFile )) {
+        fs.writeFileSync(categoriesFile, JSON.stringify([]))
+    }
+
+    const data = fs.readFileSync(categoriesFile , 'utf-8');
+    return JSON.parse(data);
+}
+
+export const saveCategories = (data) => {
+    fs.writeFileSync(categoriesFile, JSON.stringify(data, null, 2)); 
+  };

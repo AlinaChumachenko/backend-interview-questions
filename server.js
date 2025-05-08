@@ -6,6 +6,7 @@ import dotenv from 'dotenv';
 import authRoutes from './routes/auth.js';
 import questionsRoutes from './routes/questions.js';
 import aiRoutes from './routes/ai.js';
+import categoryRoutes from './routes/categories.js';
 import errorHandler from './middlewares/errorHandler.js';
 
 dotenv.config();
@@ -22,6 +23,7 @@ app.use(bodyParser.json());
 app.use('/api/auth', authRoutes);         
 app.use('/api/questions', questionsRoutes); 
 app.use('/api', aiRoutes);
+app.use('/api/categories', categoryRoutes);
 
 app.use(errorHandler);
 

@@ -19,3 +19,7 @@ export const questionSchema = Joi.object({
 export const answerSchema = Joi.object({
   answer: Joi.string().min(2).required()
 });
+
+export const categorySchema = Joi.object({
+  name: Joi.string().min(2).max(50).required()
+});
