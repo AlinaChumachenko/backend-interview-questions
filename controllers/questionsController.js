@@ -1,13 +1,13 @@
 import {getQuestionsData, saveQuestionsData} from '../utils/fileStorage.js';
 import {v4 as uuidv4} from 'uuid';
 
-export const getQuestions = (req, res) => {
+export const getQuestions = async (req, res) => {
   
     const questions = getQuestionsData();
     res.json(questions);
 } 
 
-export const addQuestion = (req, res) => {
+export const addQuestion = async (req, res) => {
     const { question, category } = req.body;
 
     if(!question || !category) {
@@ -29,7 +29,7 @@ export const addQuestion = (req, res) => {
 
 }
 
-export const deleteQuestion = (req, res) => {
+export const deleteQuestion = async (req, res) => {
     const { id } = req.params;
      let questions = getQuestionsData();
      const index = questions.findIndex(q => q.id ===id);
@@ -41,7 +41,7 @@ export const deleteQuestion = (req, res) => {
      res.json(deleted[0]);
 }
 
-export const updateAnswer = (req, res) => {
+export const updateAnswer = async (req, res) => {
     const { id } = req.params;
     const { answer } = req.body;
   

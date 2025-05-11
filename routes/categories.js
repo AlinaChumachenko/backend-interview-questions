@@ -14,7 +14,7 @@ router.post(
     validateBody(categorySchema), 
     catchAsync(addCategory));
 router.delete(
-    '/:name', 
+    '/:id', 
     catchAsync (deleteCategory));    
 
 export default router;    
