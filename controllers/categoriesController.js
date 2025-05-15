@@ -1,4 +1,4 @@
-import { getCategories, saveCategories } from '../utils/fileStorage.js';
+import { getCategories, saveCategories, getQuestionsData, saveQuestionsData  } from '../utils/fileStorage.js';
 import { v4 as uuidv4 } from 'uuid';
 
 export const getAllCategories = async (req, res) => {
@@ -42,9 +42,13 @@ export const deleteCategory = async (req, res) => {
     return res.status(404).json({ message: 'Category not found' });
   }
 
-  const deleted = categories.splice(index, 1);
+  const deletedCategory = categories.splice(index, 1)[0];
   saveCategories(categories);
 
-  res.json(deleted[0]);
+  const allQuestions = getQuestionsData();
+  const filteredQuestions = allQuestions.filter(q => q.category.toLowerCase() !== deletedCategory.name.toLowerCase());
+  saveQuestionsData(filteredQuestions);
+
+  res.json(deletedCategory);
 };
   

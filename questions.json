@@ -3,240 +3,380 @@
     "question": "Що таке Angular CLI?",
     "answer": "Angular CLI — це офіційний інструмент командного рядка для створення, розробки та керування Angular-проєктами. Він автоматизує багато рутинних задач, таких як генерація компонентів, збірка, запуск сервера розробки тощо.",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f333333"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f333333",
+    "question_en": "",
+    "question_uk": "Що таке Angular CLI?",
+    "answer_en": "",
+    "answer_uk": "Angular CLI — це офіційний інструмент командного рядка для створення, розробки та керування Angular-проєктами. Він автоматизує багато рутинних задач, таких як генерація компонентів, збірка, запуск сервера розробки тощо."
   },
   {
     "question": "Що таке сервіс в Angular?",
     "answer": "Сервіс в Angular — це клас для зберігання логіки або даних, які можна використовувати в кількох компонентах. Він допомагає структурувати код і спрощує повторне використання.",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f222211"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f222211",
+    "question_en": "",
+    "question_uk": "Що таке сервіс в Angular?",
+    "answer_en": "",
+    "answer_uk": "Сервіс в Angular — це клас для зберігання логіки або даних, які можна використовувати в кількох компонентах. Він допомагає структурувати код і спрощує повторне використання."
   },
   {
     "question": "Яка різниця між ngOnInit і constructor?",
     "answer": "constructor використовується для ініціалізації залежностей, а ngOnInit — для виконання логіки після ініціалізації компонента.",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f111111"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f111111",
+    "question_en": "",
+    "question_uk": "Яка різниця між ngOnInit і constructor?",
+    "answer_en": "",
+    "answer_uk": "constructor використовується для ініціалізації залежностей, а ngOnInit — для виконання логіки після ініціалізації компонента."
   },
   {
     "question": "Що таке директиви в Angular?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f135671"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f135671",
+    "question_en": "",
+    "question_uk": "Що таке директиви в Angular?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке двостороннє зв'язування даних?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f669711"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f669711",
+    "question_en": "",
+    "question_uk": "Що таке двостороннє зв'язування даних?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Яка різниця між компонентами та директивами?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f106611"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f106611",
+    "question_en": "",
+    "question_uk": "Яка різниця між компонентами та директивами?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке зміни в Angular?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f105511"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f105511",
+    "question_en": "",
+    "question_uk": "Що таке зміни в Angular?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке модулі в Angular?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f104411"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f104411",
+    "question_en": "",
+    "question_uk": "Що таке модулі в Angular?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Як працює інжектор залежностей в Angular?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f103311"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f103311",
+    "question_en": "",
+    "question_uk": "Як працює інжектор залежностей в Angular?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке спостерігачі (Observables) в Angular?",
     "answer": "",
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f102211"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f102211",
+    "question_en": "",
+    "question_uk": "Що таке спостерігачі (Observables) в Angular?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке типи в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f101111"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f101111",
+    "question_en": "",
+    "question_uk": "Що таке типи в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Як працюють інтерфейси?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f666711"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f666711",
+    "question_en": "",
+    "question_uk": "Як працюють інтерфейси?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке type guards?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f102211"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f102211",
+    "question_en": "",
+    "question_uk": "Що таке type guards?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Яка різниця між типами 'any' та 'unknown'?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f111711"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f111711",
+    "question_en": "",
+    "question_uk": "Яка різниця між типами 'any' та 'unknown'?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке перечислення (Enums) в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109482"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109482",
+    "question_en": "",
+    "question_uk": "Що таке перечислення (Enums) в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке generics в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109798"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109798",
+    "question_en": "",
+    "question_uk": "Що таке generics в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке модифікатори доступу (public, private, protected)?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109737"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109737",
+    "question_en": "",
+    "question_uk": "Що таке модифікатори доступу (public, private, protected)?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке деструктуризація в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109333"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109333",
+    "question_en": "",
+    "question_uk": "Що таке деструктуризація в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке 'never' тип в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b676-d60e7f109711"
+    "id": "77e34e60-b6e2-4609-b676-d60e7f109711",
+    "question_en": "",
+    "question_uk": "Що таке 'never' тип в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке 'void' тип в TypeScript?",
     "answer": "",
     "category": "typescript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109755"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109755",
+    "question_en": "",
+    "question_uk": "Що таке 'void' тип в TypeScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке hoisting?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109766"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109766",
+    "question_en": "",
+    "question_uk": "Що таке hoisting?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке замикання (closure)?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109788"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109788",
+    "question_en": "",
+    "question_uk": "Що таке замикання (closure)?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Різниця між var, let, const?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f101711"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f101711",
+    "question_en": "",
+    "question_uk": "Різниця між var, let, const?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке callback функції?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109611"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109611",
+    "question_en": "",
+    "question_uk": "Що таке callback функції?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке promises в JavaScript?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109700"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109700",
+    "question_en": "",
+    "question_uk": "Що таке promises в JavaScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке async/await?",
     "answer": "",
     "category": "javascript",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109611"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109611",
+    "question_en": "",
+    "question_uk": "Що таке async/await?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке прототипи (prototypes) в JavaScript?",
     "answer": "",
     "category": "javascript",
-    "id": "27e34e60-b6e2-4609-b677-d60e7f109711"
+    "id": "27e34e60-b6e2-4609-b677-d60e7f109711",
+    "question_en": "",
+    "question_uk": "Що таке прототипи (prototypes) в JavaScript?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке замикання в контексті функцій?",
     "answer": "",
     "category": "javascript",
-    "id": "37e34e60-b6e2-4609-b677-d60e7f109711"
+    "id": "37e34e60-b6e2-4609-b677-d60e7f109711",
+    "question_en": "",
+    "question_uk": "Що таке замикання в контексті функцій?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Яка різниця між == та ===?",
     "answer": "",
     "category": "javascript",
-    "id": "78e34e60-b6e2-4609-b677-d60e7f109711"
+    "id": "78e34e60-b6e2-4609-b677-d60e7f109711",
+    "question_en": "",
+    "question_uk": "Яка різниця між == та ===?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке Observable?",
     "answer": "Observable в Angular — це об'єкт, який представляє потік даних або подій у часі. Він дозволяє підписуватись на ці події (через .subscribe()), щоб реагувати, коли приходять нові значення, помилки або завершення. Observable використовуються, наприклад, для обробки HTTP-запитів, подій користувача, таймерів. Вони є частиною бібліотеки RxJS.",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109719"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109719",
+    "question_en": "",
+    "question_uk": "Що таке Observable?",
+    "answer_en": "",
+    "answer_uk": "Observable в Angular — це об'єкт, який представляє потік даних або подій у часі. Він дозволяє підписуватись на ці події (через .subscribe()), щоб реагувати, коли приходять нові значення, помилки або завершення. Observable використовуються, наприклад, для обробки HTTP-запитів, подій користувача, таймерів. Вони є частиною бібліотеки RxJS."
   },
   {
     "question": "Яка роль операторів map, mergeMap?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109718"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109718",
+    "question_en": "",
+    "question_uk": "Яка роль операторів map, mergeMap?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке Subjects у RxJS?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109717"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109717",
+    "question_en": "",
+    "question_uk": "Що таке Subjects у RxJS?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке операційні функції в RxJS?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109716"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109716",
+    "question_en": "",
+    "question_uk": "Що таке операційні функції в RxJS?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке оператори cold і hot Observable?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109715"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109715",
+    "question_en": "",
+    "question_uk": "Що таке оператори cold і hot Observable?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке pipe в RxJS?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109714"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109714",
+    "question_en": "",
+    "question_uk": "Що таке pipe в RxJS?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке оператор take?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109713"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109713",
+    "question_en": "",
+    "question_uk": "Що таке оператор take?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке операція merge?",
     "answer": "",
     "category": "rxjs",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f109712"
+    "id": "77e34e60-b6e2-4609-b677-d60e7f109712",
+    "question_en": "",
+    "question_uk": "Що таке операція merge?",
+    "answer_en": "",
+    "answer_uk": ""
   },
   {
     "question": "Що таке оператор debounceTime?",
     "answer": "",
     "category": "rxjs",
-    "id": "70e34e60-b6e2-4609-b677-d60e7f109711"
-  },
-  {
-    "id": "8c9ca3b0-1995-41a0-bce5-d4d1b1476af4",
-    "question": "Первый вопрос по психологии?",
-    "answer": "Первый ответ по психологии!",
-    "category": "PCYCHOLOGY"
-  },
-  {
-    "id": "05a4f304-c828-4ca5-a193-1c3e62d47fcc",
-    "question": "Второй вопрс по психологии?",
-    "answer": "Второй ответ по психологии!",
-    "category": "PCYCHOLOGY"
+    "id": "70e34e60-b6e2-4609-b677-d60e7f109711",
+    "question_en": "",
+    "question_uk": "Що таке оператор debounceTime?",
+    "answer_en": "",
+    "answer_uk": ""
   }
 ]

@@ -12,13 +12,17 @@ export const loginSchema = Joi.object({
 });
 
 export const questionSchema = Joi.object({
-  question: Joi.string().min(5).required(),
+  question_en: Joi.string().min(2).optional().empty(''),
+  question_uk: Joi.string().min(2).optional().empty(''),
   category: Joi.string().required()
-});
+}).or('question_en', 'question_uk');
 
 export const answerSchema = Joi.object({
-  answer: Joi.string().min(2).required()
-});
+  answer_en: Joi.string().min(2).allow('').optional(),
+  answer_uk: Joi.string().min(2).allow('').optional(),
+  answer: Joi.string().min(1).optional(),
+  lang: Joi.string().valid('en', 'uk').required()
+}).or('answer_en', 'answer_uk', 'answer');
 
 export const categorySchema = Joi.object({
   name: Joi.string().min(2).max(50).required()
