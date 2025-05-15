@@ -1,18 +1,22 @@
 [
   {
     "id": "1",
-    "name": "angular"
+    "name": "angular",
+    "ownerEmail": null
   },
   {
     "id": "2",
-    "name": "typescript"
+    "name": "typescript",
+    "ownerEmail": null
   },
   {
     "id": "3",
-    "name": "javascript"
+    "name": "javascript",
+    "ownerEmail": null
   },
   {
     "id": "4",
-    "name": "rxjs"
+    "name": "rxjs",
+    "ownerEmail": null
   }
 ]

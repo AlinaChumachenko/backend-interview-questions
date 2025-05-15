@@ -1,17 +1,16 @@
 [
   {
-    "question": "Що таке Angular CLI?",
-    "answer": "Angular CLI — це офіційний інструмент командного рядка для створення, розробки та керування Angular-проєктами. Він автоматизує багато рутинних задач, таких як генерація компонентів, збірка, запуск сервера розробки тощо.",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f333333",
     "question_en": "",
     "question_uk": "Що таке Angular CLI?",
     "answer_en": "",
     "answer_uk": "Angular CLI — це офіційний інструмент командного рядка для створення, розробки та керування Angular-проєктами. Він автоматизує багато рутинних задач, таких як генерація компонентів, збірка, запуск сервера розробки тощо."
+    
   },
   {
-    "question": "Що таке сервіс в Angular?",
-    "answer": "Сервіс в Angular — це клас для зберігання логіки або даних, які можна використовувати в кількох компонентах. Він допомагає структурувати код і спрощує повторне використання.",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f222211",
     "question_en": "",
@@ -20,8 +19,7 @@
     "answer_uk": "Сервіс в Angular — це клас для зберігання логіки або даних, які можна використовувати в кількох компонентах. Він допомагає структурувати код і спрощує повторне використання."
   },
   {
-    "question": "Яка різниця між ngOnInit і constructor?",
-    "answer": "constructor використовується для ініціалізації залежностей, а ngOnInit — для виконання логіки після ініціалізації компонента.",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f111111",
     "question_en": "",
@@ -30,8 +28,7 @@
     "answer_uk": "constructor використовується для ініціалізації залежностей, а ngOnInit — для виконання логіки після ініціалізації компонента."
   },
   {
-    "question": "Що таке директиви в Angular?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f135671",
     "question_en": "",
@@ -40,8 +37,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке двостороннє зв'язування даних?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f669711",
     "question_en": "",
@@ -50,8 +46,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Яка різниця між компонентами та директивами?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f106611",
     "question_en": "",
@@ -60,8 +55,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке зміни в Angular?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f105511",
     "question_en": "",
@@ -70,8 +64,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке модулі в Angular?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f104411",
     "question_en": "",
@@ -80,8 +73,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Як працює інжектор залежностей в Angular?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
     "id": "77e34e60-b6e2-4609-b677-d60e7f103311",
     "question_en": "",
@@ -90,18 +82,16 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке спостерігачі (Observables) в Angular?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "angular",
-    "id": "77e34e60-b6e2-4609-b677-d60e7f102211",
+    "id": "77e34e60-b6e2-0009-b111-d60e7f102211",
     "question_en": "",
     "question_uk": "Що таке спостерігачі (Observables) в Angular?",
     "answer_en": "",
     "answer_uk": ""
   },
   {
-    "question": "Що таке типи в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f101111",
     "question_en": "",
@@ -110,8 +100,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Як працюють інтерфейси?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f666711",
     "question_en": "",
@@ -120,8 +109,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке type guards?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f102211",
     "question_en": "",
@@ -130,8 +118,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Яка різниця між типами 'any' та 'unknown'?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f111711",
     "question_en": "",
@@ -140,8 +127,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке перечислення (Enums) в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109482",
     "question_en": "",
@@ -150,8 +136,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке generics в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109798",
     "question_en": "",
@@ -160,8 +145,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке модифікатори доступу (public, private, protected)?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109737",
     "question_en": "",
@@ -170,8 +154,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке деструктуризація в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109333",
     "question_en": "",
@@ -180,8 +163,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке 'never' тип в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b676-d60e7f109711",
     "question_en": "",
@@ -190,8 +172,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке 'void' тип в TypeScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "typescript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109755",
     "question_en": "",
@@ -200,8 +181,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке hoisting?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109766",
     "question_en": "",
@@ -210,8 +190,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке замикання (closure)?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109788",
     "question_en": "",
@@ -220,8 +199,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Різниця між var, let, const?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f101711",
     "question_en": "",
@@ -230,8 +208,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке callback функції?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109611",
     "question_en": "",
@@ -240,8 +217,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке promises в JavaScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109700",
     "question_en": "",
@@ -250,8 +226,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке async/await?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109611",
     "question_en": "",
@@ -260,8 +235,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке прототипи (prototypes) в JavaScript?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "27e34e60-b6e2-4609-b677-d60e7f109711",
     "question_en": "",
@@ -270,8 +244,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке замикання в контексті функцій?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "37e34e60-b6e2-4609-b677-d60e7f109711",
     "question_en": "",
@@ -280,8 +253,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Яка різниця між == та ===?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "javascript",
     "id": "78e34e60-b6e2-4609-b677-d60e7f109711",
     "question_en": "",
@@ -290,8 +262,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке Observable?",
-    "answer": "Observable в Angular — це об'єкт, який представляє потік даних або подій у часі. Він дозволяє підписуватись на ці події (через .subscribe()), щоб реагувати, коли приходять нові значення, помилки або завершення. Observable використовуються, наприклад, для обробки HTTP-запитів, подій користувача, таймерів. Вони є частиною бібліотеки RxJS.",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109719",
     "question_en": "",
@@ -300,8 +271,7 @@
     "answer_uk": "Observable в Angular — це об'єкт, який представляє потік даних або подій у часі. Він дозволяє підписуватись на ці події (через .subscribe()), щоб реагувати, коли приходять нові значення, помилки або завершення. Observable використовуються, наприклад, для обробки HTTP-запитів, подій користувача, таймерів. Вони є частиною бібліотеки RxJS."
   },
   {
-    "question": "Яка роль операторів map, mergeMap?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109718",
     "question_en": "",
@@ -310,8 +280,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке Subjects у RxJS?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109717",
     "question_en": "",
@@ -320,8 +289,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке операційні функції в RxJS?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109716",
     "question_en": "",
@@ -330,8 +298,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке оператори cold і hot Observable?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109715",
     "question_en": "",
@@ -340,8 +307,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке pipe в RxJS?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109714",
     "question_en": "",
@@ -350,8 +316,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке оператор take?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109713",
     "question_en": "",
@@ -360,8 +325,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке операція merge?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "77e34e60-b6e2-4609-b677-d60e7f109712",
     "question_en": "",
@@ -370,8 +334,7 @@
     "answer_uk": ""
   },
   {
-    "question": "Що таке оператор debounceTime?",
-    "answer": "",
+    "ownerEmail": null,
     "category": "rxjs",
     "id": "70e34e60-b6e2-4609-b677-d60e7f109711",
     "question_en": "",
